@@ -105,7 +105,7 @@ function ProductList() {
                                     cover={<img alt={product.name} src={product.thumnail[0]} />}
                                     extra={
                                         product.sale > 0 ?
-                                            <span className="extra">Giảm giá
+                                            <span className="extra">{product.sale}
                                             </span> : null
                                     }
                                 >

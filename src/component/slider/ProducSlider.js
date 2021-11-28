@@ -74,7 +74,7 @@ function ProductSlider(props) {
                                     cover={<img alt={item.name} src={item.thumnail[0]} />}
                                     extra={
                                         item.sale > 0 ?
-                                            <span className="extra">Giảm giá
+                                            <span className="extra">{item.sale}
                                             </span> : null
                                     }
                                 >
