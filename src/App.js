@@ -42,7 +42,7 @@ function App() {
         <RootMenu />
         <div className="sestion">
           <Switch>
-            <Redirect from="/" to="/" />
+            {/* <Redirect from="/" to="/" /> */}
             {
               RouteComponent.map((route, index) => {
                 return (
