@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/fptprojec-app/static/css/main.04f00a6d.chunk.css",
+    "main.js": "/fptprojec-app/static/js/main.88966d14.chunk.js",
+    "main.js.map": "/fptprojec-app/static/js/main.88966d14.chunk.js.map",
+    "runtime-main.js": "/fptprojec-app/static/js/runtime-main.c24db31c.js",
+    "runtime-main.js.map": "/fptprojec-app/static/js/runtime-main.c24db31c.js.map",
+    "static/css/2.d9c946f8.chunk.css": "/fptprojec-app/static/css/2.d9c946f8.chunk.css",
+    "static/js/2.e9a9ff90.chunk.js": "/fptprojec-app/static/js/2.e9a9ff90.chunk.js",
+    "static/js/2.e9a9ff90.chunk.js.map": "/fptprojec-app/static/js/2.e9a9ff90.chunk.js.map",
+    "static/js/3.c47fc900.chunk.js": "/fptprojec-app/static/js/3.c47fc900.chunk.js",
+    "static/js/3.c47fc900.chunk.js.map": "/fptprojec-app/static/js/3.c47fc900.chunk.js.map",
+    "index.html": "/fptprojec-app/index.html",
+    "static/css/2.d9c946f8.chunk.css.map": "/fptprojec-app/static/css/2.d9c946f8.chunk.css.map",
+    "static/css/main.04f00a6d.chunk.css.map": "/fptprojec-app/static/css/main.04f00a6d.chunk.css.map",
+    "static/js/2.e9a9ff90.chunk.js.LICENSE.txt": "/fptprojec-app/static/js/2.e9a9ff90.chunk.js.LICENSE.txt",
+    "static/media/banner-H1-F5.27369265.png": "/fptprojec-app/static/media/banner-H1-F5.27369265.png",
+    "static/media/banner-H1-Samsung-Subsidy.2241f416.jpg": "/fptprojec-app/static/media/banner-H1-Samsung-Subsidy.2241f416.jpg",
+    "static/media/banner-H1.f7fd45cb.jpg": "/fptprojec-app/static/media/banner-H1.f7fd45cb.jpg",
+    "static/media/banner-H3_Laptop_T12.06e1ff4b.jpg": "/fptprojec-app/static/media/banner-H3_Laptop_T12.06e1ff4b.jpg",
+    "static/media/banner-NoteFE-H1.e66152bd.jpg": "/fptprojec-app/static/media/banner-NoteFE-H1.e66152bd.jpg",
+    "static/media/banner-TranVien-H1.0219c13c.jpg": "/fptprojec-app/static/media/banner-TranVien-H1.0219c13c.jpg",
+    "static/media/banner-vivo-H1.a6676f36.jpg": "/fptprojec-app/static/media/banner-vivo-H1.a6676f36.jpg",
+    "static/media/banner_LenovoYogaBook-H3.7a889b8e.jpg": "/fptprojec-app/static/media/banner_LenovoYogaBook-H3.7a889b8e.jpg",
+    "static/media/slick-theme.css": "/fptprojec-app/static/media/slick.c94f7671.ttf",
+    "static/media/uudai.426c439e.jpg": "/fptprojec-app/static/media/uudai.426c439e.jpg",
+    "static/media/yoga.ec0d04e7.jpg": "/fptprojec-app/static/media/yoga.ec0d04e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24db31c.js",
+    "static/css/2.d9c946f8.chunk.css",
+    "static/js/2.e9a9ff90.chunk.js",
+    "static/css/main.04f00a6d.chunk.css",
+    "static/js/main.88966d14.chunk.js"
+  ]
+}
