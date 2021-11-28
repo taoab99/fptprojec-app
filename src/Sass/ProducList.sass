@@ -1,0 +1,63 @@
+.danhmuc
+    width: 100%
+    padding-right: 20px
+    height: auto
+    &-text
+        font-size: 15px
+        font-weight: 700
+        text-align: left
+        margin-bottom: 40px
+        opacity: 0.8
+    .mt-20
+        margin-top: 20px
+        text-align: left
+    .router
+        flex-flow: column
+        align-items: flex-start
+        a
+            width: 100%
+            border: 1px solid rgba(0, 0, 0, 0.09)
+            border-radius: 6px
+            padding: 6px 15px
+.produclist-breadcrumbs,
+.produclist-flex
+    display: flex
+    flex-flow: row wrap
+    align-items: center
+    justify-content: space-between
+.produclist-breadcrumbs
+    margin-bottom: 30px
+    .produclist-flex
+        h3
+            margin-right: 20px
+.produclist-conten
+    width: 100%
+    height: auto
+    .productlist-item
+        padding: 10px
+        .ant-card-cover
+            margin: 0
+        .card
+            height: 100%
+
+@media screen and(max-width: 768px)
+    .productlist-item
+        .ant-card-head, .ant-card-body
+            padding: 0 6px
+
+    .extra
+        font-size: 12px
+
+    .produclist-conten
+        .productlist-item
+            padding: 10px 16px
+
+@media screen and (max-width: 576px)
+    .produclist-breadcrumbs, .produclist-flex
+        flex-direction: column
+        justify-content: center
+
+@media screen and (max-width: 480px)
+    .produclist-conten
+        .productlist-item
+            padding: 10px 0px
