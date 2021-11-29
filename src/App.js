@@ -42,7 +42,6 @@ function App() {
         <RootMenu />
         <div className="sestion">
           <Switch>
-            <Redirect exact from="/" to="/" />
             {
               RouteComponent.map((route, index) => {
                 return (
@@ -55,6 +54,7 @@ function App() {
                 )
               })
             }
+            <Redirect exact from="/" to="/" />
           </Switch>
         </div>
 
