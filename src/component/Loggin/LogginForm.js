@@ -18,7 +18,6 @@ const uiConfig = {
 
 export default function LogginForm() {
     const history = useHistory();
-    console.log(history);
     const dispatch = useDispatch();
     const [form] = Form.useForm();
     const onFinish = (values) => {

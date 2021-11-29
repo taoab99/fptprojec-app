@@ -9,7 +9,7 @@ import Cart from "../component/Cart/Cart";
 
 export const RouteComponent = [
     {
-        path: "/home",
+        path: "/",
         exact: true,
         main: () => <Home />
     },
