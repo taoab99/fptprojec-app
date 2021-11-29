@@ -79,7 +79,7 @@ export const RouteComponent = [
         main: () => <Cart />
     },
     {
-        path: "",
+        path: "*",
         exact: false,
         main: () => <Notfound />
     },
