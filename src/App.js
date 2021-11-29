@@ -54,7 +54,7 @@ function App() {
                 )
               })
             }
-            <Redirect exact from="/" to="/" />
+            {/* <Redirect exact from="/" to="/" /> */}
           </Switch>
         </div>
 
